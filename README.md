@@ -1,11 +1,4 @@
 # Simple Calculator 
-
-
-To install the package :-
-
- ``` bash
-    pip install calculator.py
- ```
  
 A simple python calculator with the following functions :
   - Addition, subtraction, division and multiplication
