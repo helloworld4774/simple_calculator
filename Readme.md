@@ -24,9 +24,7 @@ Calculator currently supports:
   - Hold or reset memory and operate on previous value
   - Error handling
   - Invalid input handling
-### Upcomming Features!
 
-  - Trigonometric funcions
 
 ### Tech
 Calculator uses a number of open source projects to work properly:
