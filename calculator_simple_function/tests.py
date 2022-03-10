@@ -7,7 +7,7 @@ class TestCalculator(unittest.TestCase):
         return self.assertEqual(c.add(9,1), 7,"Incorrect")
         
     def test_subtract(self):
-        return self.assertEqual(c.add(9,1), 7,"Incorrect")
+        return self.assertEqual(c.subtract(9,1), 7,"Incorrect")
     
     def test_division(self):
         return self.assertEqual(c.divide(1, 0),'Can not divide by zero.', "incorrect")
